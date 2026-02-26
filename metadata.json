@@ -1,0 +1,5 @@
+{
+  "name": "Axximum Tracker",
+  "description": "A comprehensive project tracking and utilization dashboard with Google Sheets sync and daily reporting.",
+  "requestFramePermissions": []
+}
